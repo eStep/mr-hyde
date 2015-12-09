@@ -10,5 +10,14 @@ URL should be `nlesc.github.io`.
 If the organisation name is `moriarty-corp`, the page URL will be `moriarty-corp.github.io`.
 Page should be in repository `github.com/moriarty-corp/moriarty-corp.github.io`.
 - One page per software repository. It does not matter what is the github organisation or user that the repository is loated in.
-Page code should be located in gh-pages of software repository. If github is `minion` and software is `evil-contraption` the
+Page code should be located in gh-pages of software repository. If github user is `minion` and software is `evil-contraption` the
 URL of the page will be `minion.github.io/evil-contraption`.
+- Project page should have and index of its software tools. This list should be extended via pull requests from tools developer.
+- Organisations should be added to NLeSc page via pull request from project *administrator*.
+- It should be possible to validate software page, checking if the minimum information is provided.
+Some of the things that can be checked are:
+    * is repository is public?
+    * is repository versioned with semver?
+    * does repostiory contain LICENSE file?
+    * does repository contain REDME.md?
+    * does repository contain editorconfig file?
