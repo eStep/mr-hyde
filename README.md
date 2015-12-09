@@ -21,6 +21,7 @@ Some of the things that can be checked are:
     * does repostiory contain LICENSE file?
     * does repository contain REDME.md?
     * does repository contain editorconfig file?
+    * does software have DOI?
 - Project and software pages should be created from templates that can be imported with github import tool.
 - There should be validation of pages and maybe some github hooks.
 - Everything should be automated as much as possible.
