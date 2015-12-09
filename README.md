@@ -25,3 +25,5 @@ Some of the things that can be checked are:
 - Project and software pages should be created from templates that can be imported with github import tool.
 - There should be validation of pages and maybe some github hooks.
 - Everything should be automated as much as possible.
+- Checks could be done during build with Travis continuous integration.
+  * when commit in master branch update gh-pages, validate and rebuild
