@@ -9,7 +9,7 @@ URL should be `nlesc.github.io`.
 - One page for each project. This should be separate organisation.
 If the organisation name is `moriarty-corp`, the page URL will be `moriarty-corp.github.io`.
 Page should be in repository `github.com/moriarty-corp/moriarty-corp.github.io`.
-- One page per software repository. It does not matter what is the github organisation or user that the repository is loated in.
+- One page per software repository. It does not matter what is the github organisation or user that the repository is located in.
 Page code should be located in `gh-pages` branch of software repository. If github user is `minion` and software is `evil-contraption` the
 URL of the page will be `minion.github.io/evil-contraption`.
 - Project page should have and index of its software tools. This list should be extended via pull requests from tools developer.
